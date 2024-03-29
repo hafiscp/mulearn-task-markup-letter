@@ -1,0 +1,60 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 35px;
+}
+
+.sender-column {
+  text-align: right;
+  font-style: italic;
+}
+
+.weight {
+  font-weight: 900;
+}
+
+.line-height {
+  line-height: 24px;
+}
+
+.left-align {
+  text-align: left;
+  font-style:italic
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+p,
+ul,
+ol,
+dl,
+address {
+  font-size: 1.1em;
+}
+
+p,
+li,
+dd,
+dt,
+address {
+  line-height: 1.5;
+}
+
+.footer {
+  font-style: italic;
+}
+.footer-line {
+  line-height: 1.5;
+}
